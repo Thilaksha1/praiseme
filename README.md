@@ -12,7 +12,7 @@ You can install praiseme from github with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("Thilaksha1/praiseme")
+devtools::install_github("Thilaksha/praiseme")
 ```
 
 Example
